@@ -30,4 +30,10 @@ a course by Mr Erfan Yousefi </p>
 <h3> Artificial intelligence </h3>
 <h3> Chess </h3>
 
+<h2 align="left"> languages i know  : </h2>
+<h3> English : advanced  </h3>
+<h3> German : pre-intermediate</h3>
+
+
+
 
