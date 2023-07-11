@@ -8,6 +8,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+<p align = "left"> i learned JS on YouTube and with the book YDKJS(you dont know JS) by Kyle Simpson ,  i am continuing my journey by learning other things in
+a course by Mr Erfan Yousefi </p>
+
+
 <p align = "left"> tools and skills that i am familiar with  </p>
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
