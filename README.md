@@ -1,7 +1,7 @@
 # About me 
 <h2 align="center"> My name is AmirAli Ghorbani</h2>
 <p align="left"> I am 17 years old , my major in high school is math and physics</p>
-<p align = "left"> tools and skills that i know  </p>
+<p align = "left"> tools and skills that i almost know  </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
