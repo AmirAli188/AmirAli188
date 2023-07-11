@@ -15,3 +15,11 @@
 <h3> Algorithms </h3>
 <h3> GraphQL </h3>
 <h3> computer networking  </h3>
+
+<h2 align="left"> my interests are : </h2>
+<h3> Hacking and network systems </h3>
+<h3> Data structure </h3>
+<h3> Artificial intelligence </h3>
+<h3> Chess </h3>
+
+
